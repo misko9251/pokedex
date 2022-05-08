@@ -1,0 +1,177 @@
+.main-container{
+    margin: 0 auto;
+    margin-top: 4%;
+    font-family: "Press Start 2P";
+    height: 800px;
+    width: 1000px;
+}
+
+header{
+    font-size: 30px;
+    text-align: center;
+    margin-bottom: 8%;
+}
+
+.dex-border{
+    border-radius: 10px;
+    border: 2px solid black;
+    width: 475px;
+    height: 600px;
+    background-color: rgb(197, 36, 36);
+    float: left;
+}
+
+span{
+    margin: 8px 1px 8px 8px;
+    display: block;
+    border:1px solid black;
+    border-radius: 50px;
+    width: 50px;
+    height: 50px;
+    background-color: white;
+}
+
+.inner-light{
+    display: block;
+    border:1px solid black;
+    background-color: rgb(159, 212, 221);
+    border-radius: 50px;
+    width: 33px;
+    height: 33px;
+}
+
+.dex-top-border{
+    border-top: 2px solid black;
+}
+
+.dex-screen-border{
+    border: 2px solid black;
+    border-radius: 10px;
+    background-color: white;
+    height: 365px;
+    width: 400px;
+    margin: 20px auto;
+}
+
+.dex-main-screen{
+    border-radius: 10px;
+    background-color: black;
+    height: 325px;
+    width: 375px;
+    margin-left: 3%;
+    margin-top: 3%;
+    padding-top: 3%;
+    
+}
+
+.poke-search{
+    height: 26px;
+    width: 250px;
+    margin-left: 42px;
+    font-family: "Press Start 2P";
+    font-size: 9px;
+    padding: 1px;
+}
+
+.search, .shiny{
+    height: 32px;
+    width: 125px;
+    font-family: "Press Start 2P";
+    font-size: 7px;
+}
+
+.hinge{
+    background-color: rgb(197, 36, 36);
+    width: 30px;
+    height: 520px;
+    border: 2px solid black;
+    margin-top: 75px;
+    float: left;
+    border-radius: 10px;
+}
+
+.dex-border2{
+    border: 2px solid black;
+    width: 475px;
+    height: 530px;
+    margin-top: 70px;
+    background-color: rgb(197, 36, 36);
+    float: left;
+    border-radius: 10px;
+}
+
+.dex-main-screen-two{
+    border-radius: 10px;
+    border: 2px solid black;
+    background-color: aqua;
+    height: 325px;
+    width: 352px;
+    margin-left: 3%;
+    margin-top: 3%;
+    padding-top: 3%;
+    padding-left: 5%;
+}
+
+div{
+    background-color: white;
+    border-radius: 5px;
+}
+
+h2{
+    padding: 2%;
+    margin-top: 10%;
+    font-family: "Press Start 2P";
+    font-size: 10px;
+    text-align: center;
+    margin: 40px auto;
+}
+
+img{
+    color: white;
+    width: 200px;
+    height: 200px;
+}
+
+h1{
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 0;
+}
+h3, p{
+    font-family: "Press Start 2P";
+    font-size: 10px;
+    display: inline-block;
+}
+
+ol, li{
+    font-family: "Press Start 2P";
+    font-size: 10px;
+    padding: 4px;
+    margin-left: 5%;
+}
+
+h5{
+    color: white;
+    font-family: "Press Start 2P";
+    font-size: 15px;
+    text-align: center;
+    margin: 2px;
+}
+
+#poke-no{
+    color: white;
+    font-family: "Press Start 2P";
+    font-size: 12px;
+    text-align: center;
+}
+
+.shiny{
+    margin-left: 37%;
+    margin-top: 2%;
+}
+
+body{
+    background: linear-gradient(to right, #e08b8b, #e7e614, #ffffdd);
+    background: #e7e614;
+}
